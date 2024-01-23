@@ -22,7 +22,7 @@
 
 		sampler2D _Gradient;
 
-		struct appdata_t {
+				struct appdata_t {
                 float4 vertex : POSITION;
                 fixed4 color : COLOR;
                 float4 texcoord : TEXCOORD0;
